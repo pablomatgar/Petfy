@@ -1,7 +1,7 @@
-# Campy
+# Petfy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Campy is a Full stack application built in Express which allows you to view and comment on different camping sites across the world
+### Petfy is a Full Stack NodeJS web application built at HackUPC 2018
 
 ## Running
 
@@ -35,18 +35,3 @@ open localhost:3000 in your browser
 
 
 
-### Technologies and Packages used
-* Node 
-* MongoDB
-* Express
-* EJS
-* PassportJS
-* Bootstrap
-* Npm packages
-  - Flash messages
-  - mongoose
-  - passport-local-mongoose
-  - body-parser 
-  - method-override
-  
-![Node, Mongo,Express image](https://www.js-tutorials.com/wp-content/uploads/2017/09/nodejs-mongodb-express-mongoose.png)
