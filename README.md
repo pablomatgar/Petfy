@@ -1,7 +1,7 @@
 # Petfy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Petfy is a Full Stack NodeJS web application built at [HackUPC 2018](https://2018.hackupc.com), the first student hackathon in Spain (fourth edition).
+Petfy is a Full Stack NodeJS web application built at [HackUPC 2018](https://2018.hackupc.com), the first student hackathon in Spain (fourth edition, at Polytechnic University of Catalonia, Barcelona).
 
 The purpose of developing this app was trying to create a system that allows people to find pets around them by location and support pet adoption.
 
